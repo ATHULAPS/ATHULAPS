@@ -15,7 +15,8 @@ Hi! I'm **ATHULAPS**, a passionate **BCA student** with a strong interest in pro
   - SQL 📊  
 - **Currently Exploring**:  
   - Python 🐍  
-  - PHP 🌐  
+  - PHP 🌐
+  - Html 
 
 ---
 
