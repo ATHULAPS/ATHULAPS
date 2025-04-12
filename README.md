@@ -19,6 +19,16 @@ Hi! I'm **ATHULAPS**, a passionate **BCA student** with a strong interest in pro
 
 ---
 
+## 🏆 Achievements & Badges
+Here are some cool badges I’ve earned:
+
+- ![GitHub Achievements](https://img.shields.io/badge/GitHub-Achievements-blue?style=for-the-badge&logo=github&logoColor=white)
+- ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)
+- ![Problem Solver](https://img.shields.io/badge/Problem%20Solver-Gold-yellow?style=for-the-badge)
+- ![Code Enthusiast](https://img.shields.io/badge/Code%20Enthusiast-Passionate-red?style=for-the-badge)
+- ![Learner](https://img.shields.io/badge/Learner-Always%20Learning-orange?style=for-the-badge)
+
+
 ## ⚡ My Hobbies & Interests
 - **Sports**: Playing football and cricket.  
 - **Gaming**: Exploring fun and challenging mobile games.  
