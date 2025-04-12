@@ -29,6 +29,14 @@ Hi! I'm **ATHULAPS**, a passionate **BCA student** with a strong interest in pro
 
 ---
 
+## 📊 GitHub Status
+![ATHULAPS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATHULAPS&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ATHULAPS&layout=compact&theme=radical)
+
+---
+
+
 ## 📫 Connect With Me
 Feel free to reach out and collaborate on projects or share ideas!
 
