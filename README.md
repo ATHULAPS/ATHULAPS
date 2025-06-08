@@ -1,6 +1,6 @@
 # Hello, World! 🌍 Welcome to My GitHub Profile! 👋
 
-![Welcome Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Welcome Banner](https://user-images.githubusercontent.com/122787541/185753642-5a88c3ad-0a58-46a2-bb80-d2c3c6d5f6e5.gif)
 
 ## 👨‍💻 About Me
 Hi! I'm **ATHULAPS**, a passionate **BCA student** with a strong interest in programming and technology. I thrive on solving problems, learning new skills, and building exciting projects. Apart from coding, I enjoy **exploring the world of sports, entertainment, and technology**. 🎮⚽🏏
@@ -13,10 +13,12 @@ Hi! I'm **ATHULAPS**, a passionate **BCA student** with a strong interest in pro
   - C 🖥️  
   - VB.NET 💻  
   - SQL 📊  
+  - HTML 🌐  
+  - CSS 🎨  
+  - JavaScript ⚡  
 - **Currently Exploring**:  
   - Python 🐍  
-  - PHP 🌐
-  - Html 
+  - PHP 🌐  
 
 ---
 
@@ -29,6 +31,7 @@ Here are some cool badges I’ve earned:
 - ![Code Enthusiast](https://img.shields.io/badge/Code%20Enthusiast-Passionate-red?style=for-the-badge)
 - ![Learner](https://img.shields.io/badge/Learner-Always%20Learning-orange?style=for-the-badge)
 
+---
 
 ## ⚡ My Hobbies & Interests
 - **Sports**: Playing football and cricket.  
@@ -47,7 +50,6 @@ Here are some cool badges I’ve earned:
 
 ---
 
-
 ## 📫 Connect With Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-profile)  
@@ -55,7 +57,5 @@ Here are some cool badges I’ve earned:
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-facebook-profile)  
 
 ---
-
-
 
 ### 🌟 "Strive for progress, not perfection." 🌟
