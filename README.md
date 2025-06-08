@@ -1,9 +1,9 @@
 # Hello, World! 🌍 Welcome to My GitHub Profile! 👋
 
-![Welcome Banner](https://user-images.githubusercontent.com/122787541/185753642-5a88c3ad-0a58-46a2-bb80-d2c3c6d5f6e5.gif)
+![Welcome Banner](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ## 👨‍💻 About Me
-Hi! I'm **ATHULAPS**, a passionate **BCA  Analytics student** with a strong interest in programming and technology. I thrive on solving problems, learning new skills, and building exciting projects. Apart from coding, I enjoy **exploring the world of sports, entertainment, and technology**. 🎮⚽🏏
+Hi! I'm **ATHULAPS**, a passionate **BCA Analytics student** with a strong interest in programming and technology. I thrive on solving problems, learning new skills, and building exciting projects. Apart from coding, I enjoy **exploring the world of sports, entertainment, and technology**. 🎮⚽🏏
 
 ---
 
